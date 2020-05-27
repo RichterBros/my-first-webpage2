@@ -1,4 +1,4 @@
-# _My First Webpage_
+# _My Favorite things_
 
 #### _website to practice html and css, 05-27-2020_
 
@@ -6,7 +6,7 @@
 
 ## Description
 
-_basic html site with a link to a site listing my favorite things_
+_basic html site listing my favorite things with a link to my-first-webpage2.html_
 
 ## Setup/Installation Requirements
 
